@@ -1,16 +1,29 @@
-#main-navbar{
+/*Centered Horizontal Bar*/
+#main-navbar ul{
   list-style-type: none;
   margin: 0;
   padding: 0;
 }
-#navbar-container{
-float: left;
-display: inline-block;
-text-decoration: none;
+#main-navbar ul li{
+  float: left;
 }
+#main-navbar ul li a{
+  display: inline-block;
+  text-decoration: none;
+}
+
+#main-navbar{
+
+}
+#navbar-container{
+
+}
+
 #onpage{
 
 }
+
+/*Side Bar CSS*/
 #sidebar{
 
 }
