@@ -4,24 +4,38 @@
   overflow: hidden;
   width: 100%;
   position: relative;
-  list-style-type: none;
   margin: 0;
   padding: 0;
 }
-#main-navbar ul{
-  float: left;
-}
-#main-navbar ul li{
-
-}
-#main-navbar ul li a{
-
-}
 #navbar-container{
+  float: left;
+  position: relative;
+  list-style-type: none;
+  left: 50%;
+}
+
+#navbar-container ul{
+  float: left;
+  position: relative;
+  right: 50%;
+  display: block;
+}
+#navbar-container ul li{
+  float: left;
+  display: block;
+}
+#navbar-container ul li a{
+  padding: 10px, 20px;
+  color: #fff;
+  text-decoration: none;
+}
+#navbar-container ul li a:hover{
 
 }
-#onpage{
 
+#onpage{
+  background-color: #000;
+  text-decoration: underline overline;
 }
 
 /*Side Bar CSS*/
