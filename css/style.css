@@ -7,6 +7,9 @@
   padding: 0;
 }
 #navbar-container{
+  float: left;
+  position: relative;
+  left: 50%
 }
 
 #navbar-container ul{
