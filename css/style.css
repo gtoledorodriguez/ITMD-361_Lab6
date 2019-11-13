@@ -11,32 +11,31 @@
   float: left;
   position: relative;
   list-style-type: none;
-  left: 50%;
 }
 
 #navbar-container ul{
   float: left;
   position: relative;
+  left: 50%;
   right: 50%;
-  display: block;
 }
 #navbar-container ul li{
   float: left;
   display: block;
   padding: 10px 20px;
-  color: #fff;
 }
 #navbar-container ul li a{
+  color: #fff;
   text-decoration: none;
 }
 #navbar-container ul li a:hover{
   background-color: #000;
   text-decoration: underline overline;
+  display: block;
 }
 
 #onpage{
   background-color: #000;
-  text-decoration: underline overline;
 }
 
 /*Side Bar CSS*/
