@@ -8,34 +8,18 @@
   padding: 0;
 }
 #navbar-container{
-  float: left;
-  position: relative;
-  list-style-type: none;
 }
 
 #navbar-container ul{
-  float: left;
-  position: relative;
-  left: 50%;
-  right: 50%;
 }
 #navbar-container ul li{
-  float: left;
-  display: block;
-  padding: 10px 20px;
 }
 #navbar-container ul li a{
-  color: #fff;
-  text-decoration: none;
 }
 #navbar-container ul li a:hover{
-  background-color: #000;
-  text-decoration: underline overline;
-  display: block;
 }
 
 #onpage{
-  background-color: #000;
 }
 
 /*Side Bar CSS*/
