@@ -22,6 +22,10 @@
   float: left;
 }
 #navbar-container ul li a{
+  float: left;
+  padding: 10px 20px;
+  color: #fff;
+  text-decoration: none;
 }
 #navbar-container ul li a:hover{
 }
