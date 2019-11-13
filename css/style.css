@@ -13,6 +13,10 @@
 }
 
 #navbar-container ul{
+  float: left;
+  position: relative;
+  right: 50%;
+  list-style-type: none;
 }
 #navbar-container ul li{
 }
