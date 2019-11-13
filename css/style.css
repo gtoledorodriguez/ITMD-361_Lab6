@@ -28,6 +28,10 @@
   text-decoration: none;
 }
 #navbar-container ul li a:hover{
+  background-color: #000;
+  display: block;
+  float: left;
+  text-decoration: underline overline;
 }
 
 #onpage{
